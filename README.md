@@ -1,1 +1,3 @@
-# manifold_march
+# Manifold March
+
+![spheres](images/spheres.png)
